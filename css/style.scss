@@ -1,0 +1,17 @@
+hrml,body,h1,form,input{
+    margin: 0;
+    padding: 0
+}
+body{
+    background: #000;
+}
+h1{
+    color: #FFF;
+}
+#field{
+    position: relative;
+    input{
+        margin: 10px;
+        position: absolute;
+    }
+}
